@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>booting.gif</file>
+        <file>time_tag_enable.png</file>
+        <file>time_tag_disable.png</file>
+        <file>state_setup.jpg</file>
+        <file>state_ready.jpg</file>
+        <file>button_up_enable.png</file>
+        <file>button_up_disable.png</file>
+        <file>button_setup_pulse.png</file>
+        <file>button_setup_language2.png</file>
+        <file>button_setup_language1.png</file>
+        <file>button_setup_language.png</file>
+        <file>button_setup_enable.png</file>
+        <file>button_setup_disable.png</file>
+        <file>button_setup.png</file>
+        <file>button_down_enable.png</file>
+        <file>button_down_disable.png</file>
+        <file>button_back_enable.png</file>
+        <file>button_back_disable.png</file>
+        <file>state_standby.png</file>
+        <file>state_on.png</file>
+        <file>pad_enable.png</file>
+        <file>pad_disable.png</file>
+        <file>error.png</file>
+        <file>electrode_enable.png</file>
+        <file>electrode_disable.png</file>
+        <file>alarm.png</file>
+        <file>highlight.png</file>
+        <file>button_setup_constant.png</file>
+        <file>mode_tag_enable_pulse.png</file>
+        <file>mode_tag_enable_constant.png</file>
+        <file>mode_tag_disable.png</file>
+        <file>mode_tag_pulse.png</file>
+        <file>mode_tag_constant.png</file>
+    </qresource>
+</RCC>

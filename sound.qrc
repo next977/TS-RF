@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>up_button.wav</file>
+        <file>rf_stop.wav</file>
+        <file>error.wav</file>
+        <file>down_button.wav</file>
+        <file>alarm.wav</file>
+        <file>booting.wav</file>
+        <file>click_button.wav</file>
+        <file>rf_start.wav</file>
+        <file>rf_output.wav</file>
+    </qresource>
+</RCC>
